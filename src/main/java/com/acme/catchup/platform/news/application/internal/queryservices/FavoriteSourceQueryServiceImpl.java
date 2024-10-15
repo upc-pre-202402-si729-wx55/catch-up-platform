@@ -1,4 +1,4 @@
-package com.acme.catchup.platform.news.application.internal.commandservices;
+package com.acme.catchup.platform.news.application.internal.queryservices;
 
 import com.acme.catchup.platform.news.domain.model.aggregates.FavoriteSource;
 import com.acme.catchup.platform.news.domain.model.queries.GetAllFavoriteSourcesByNewsApiKeyQuery;
